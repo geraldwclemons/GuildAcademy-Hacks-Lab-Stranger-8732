@@ -1,4 +1,4 @@
-## Euler Finance  Hack Analysis - Proof of Concept
+## Euler Finance  Hack Analysis
 
 This repository serves as a PoC demonstrating the steps taken to perform the hack which lost Euler Finance ~$197M.
 
